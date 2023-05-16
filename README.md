@@ -1,6 +1,4 @@
-Repository for ETL Mini-Project
-Background
-Practice building an ETL pipline using Python, Pandas, and Python dictionary methods.
+
 A successful project will do the following:
 Create Category and Subcategory DataFrames
 Create Campaign DataFrame
